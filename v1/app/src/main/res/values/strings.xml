@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Doing Exercise with Other</string>
+    <string name="registerToolbar_name">Register</string>
+    <string name="profileSettingToolbar_name">Profile Setting</string>
+    <string name="homePageToolbar_name">Home Page</string>
+    <string name="title_activity_google_maps_api">Map</string>
+
+</resources>
